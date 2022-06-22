@@ -5,4 +5,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl4ko&show_icons=true&theme=dracula)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gregorkovac&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=bl4ko&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
